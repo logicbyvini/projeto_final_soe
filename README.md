@@ -15,7 +15,7 @@ Este repositório faz parte das avaliações práticas da disciplina Sistemas Op
 
 ## O Cenário: A Threat Behind the Wheel
 
-Imagine um motorista de caminhão enfrentando a terceira hora seguida de viagem em uma rodovia sem iluminação na madrugada. O cansaço se acumula de forma silenciosa. Aos poucos, as pálpebras começam a pesar e a velocidade de reação diminui drasticamente. Em um piscar de olhos prolongado — o chamado microsono —, o veículo percorre dezenas de metros completamente sem controle. Não há tempo para frear; a colisão acontece antes mesmo que o motorista perceba o perigo.
+Imagine um motorista de caminhão enfrentando a terceira hora seguida de viagem em uma rodovia sem iluminação na madrugada. O cansaço se acumula de forma silenciosa. Aos poucos, as pálpebras começam a pesar e a velocidade de reação diminui drasticamente. Em um piscar de olhos prolongado, no chamado microsono , o veículo percorre dezenas de metros completamente sem controle. Não há tempo para frear; a colisão acontece antes mesmo que o motorista perceba o perigo.
 
 Segundo dados da Associação Brasileira de Medicina de Tráfego (ABRAMET, 2021), o sono e a fadiga estão associados a até 40% dos acidentes de trânsito no Brasil. A probabilidade de acidentes graves durante a madrugada chega a ser mais de três vezes maior do que no período diurno, e colisões causadas por microsonos se destacam pela ausência de marcas de frenagem na pista.
 
